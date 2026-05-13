@@ -1,0 +1,12 @@
+.env
+.git
+.DS_Store
+
+bin/
+dist/
+tmp/
+
+*.log
+
+postgres_data/
+redis_data/
